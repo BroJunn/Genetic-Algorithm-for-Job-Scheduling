@@ -3,6 +3,11 @@
 This repository contains MATLAB code for solving a job scheduling problem using a genetic algorithm. The script initializes the task parameters and runs a genetic algorithm to optimize the job scheduling with considerations for processing times, transportation times, and penalties for earliness and tardiness.
 
 
+## Result as Gantt Chart
+![Gantt Chart to visualize job scheduling](Gantt_Chart.png)
+
+
+
 ## Usage
 
 
